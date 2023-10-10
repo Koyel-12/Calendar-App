@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-campus-401510",
+  "private_key_id": "15e4fa008e9b24424e56c61dec27a1496fc0cfeb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqphfk6UuCEDbB\nmaGHgT2r3NySf/8b7m8JWIFO469vT3abLA3fGI7n1BqinnCWU8cPklQKhRpOtH5P\nrZpxwUwaQOoouqbW+Rlvk2V4/SMmBQOm+Irdg83uoJdwItNfZH7y9JoAV+oJfDiy\n1+jsKQIlbcSF50r334OpVIohPOz6HgZSfH0lriDxKCd7M9ThcfliXjn1gJgu6bap\n21alhA79R4m2PKjPvrCB+kNC1n+IeV42b4z+v4fVQRCWBpRPlJRE6AU2w4LpWhAj\ntn6xNdyxCxTXPnpCD6HZXorTz1sYKhX4Wq9TUFM7cxkiQ7kERXdC6Z877JCX5EoG\nsvnVFDtZAgMBAAECggEABklczfu44roS2lT85LoNJJIGtNru8f95qwrN+12wmSrV\n6rzXvKVHS8u+OMlvdQpHELrKSneW0tlxYcwPyYBee6/H2zztEomrYeHjNhl/5vxT\nox4QN5LjI5cE8oZF6oNlmIZhpKuYcpsB7Qy+hvIHzeCFAeMrGYXsGsaDhC/zZvoO\nsvN73hPIjwg9eB9MjNhxtpIK0+T7gkKG01cmOFn86MrQwy3peyg2sXzv1LNuydUg\nhWD8bS+4PI5r29GNkOfrvcpdZ68nMlPdII/TJVLGMZoMEK+gmlc9JLsux5bBXl84\nAflRvkxWSQIJAi4ahUBwl2ZG2xledBcejv+L/DPUFQKBgQDoa2zvBlOEjBpJNqjT\nJaAXWDbzKeW7SbULpl1xsvnrarnXhGddc0V3ArTiCIG7F/ndBBXnAT/yHQa31jbj\nY8s8b0ycPLDEem7GKCjqIL7BFrZwzNmVPoVl0vzNkTpZS4sV3WsYoQBnOr5c3yHe\n6BV+KZvSGWfrp/BLAYM2wIreVwKBgQC79k9oEVLouRbc/gUfDePri7eCrPIxD2c8\npZ6ZZgX1VHJ1FamuEi0t3XfIVKuOi90YPZtNwIyL+HwvTNPSKrf9s4YTnWBNYtMr\n0vKFEVb10Ko1sCgtcCKNmme6oirfQRbrVmvavWbeiQfvPdGUww2HYJuRQb0jCHTv\nR41kK+tFzwKBgQCN8M1eTKbE1CtZeyAvk1Lp7t3gMz4x2xnOO5Pl1D/9HfjRPfNC\nhxttSyHcyQUxlbrq14vowEKlQkTQEOsEg/WiuvY2lHoABCWSrwQNuGHG2nAhA3n+\nQ2iEfw4VHRRdZF1UxRyatfjhEmcfoMW2tFYr7o1TCmEE8lM1+35++afVkQKBgCRF\noQc9KJm+dhoJbyWSAaTH3o76Hva2uT5r25JQrN+t/zR3DLqJyWwra90d8cldVjpC\nUUEM4lJ0jkp2cf4BvmXYCgyo9xeX9ZZka+af9P8U2HPp3ab/F7vpyxCqEMnqfqjF\nkaSxnjNdkElrzZD+nxK74umCHSSwkhhG35MwIoPjAoGAY7QnmH9dBhXK/Y1XQjxg\nu82HjooHirLaG2z9HsSw6hD1oHSkXRnFVvIN+/NyPMZGI+81YTbzNzEyP24/L5q0\nHpbvNhNHvp4Gh+mT2Km4NrsRK/hTeaXy9oyfvgDj97AhEEHLc11GU10hqSpW8kkk\n6cDon6JiBEAQthbOFaK74yU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-calender@pelagic-campus-401510.iam.gserviceaccount.com",
+  "client_id": "117280543809021634818",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-calender%40pelagic-campus-401510.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,7 @@
+the following steps which I have created a project:
+1) first I have created the react.js project app My Calendar App which can be run by using the command such as npx create-react-app my-calendar-app
+2) cd my-calendar-app-> then we need to install npm packages such as react-big-calendar, express, path,http, then we install google cloud platform.
+3) in google cloud platform we create an account , in that account we create the the OAuth2Client to generate client id and client secret from it and for access token we generate it from service account by running the cmd command of the google cloud platform.
+4) we create the create google calendar form in which we enter the details of the event such as event title, event details, start and end date and time and we create a create button and have the calendar over it when we fill all the entries and click on create task button , all the details appear in the event section of the webpage.
+5) for that we use frontend part as react.js and node.js as backend part which form the communciation between client and server side of the web application. for node part we create a node folder and in node folder directory of the project we create a node file called server.js which is used for the communication to all over the web page between frontend and bakcend.
+6) for the fetching details of the event we also run server side ie. node server.js
